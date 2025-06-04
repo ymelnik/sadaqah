@@ -3,7 +3,7 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "XJQTQXW94Z.com.donation.sadaqah.v3",
+				"appID": "XJQTQXW94Z.ae.donation.sadaqah.v3",
 				"paths": [
 					"*"
 				]
@@ -12,7 +12,7 @@
 	},
 	"appclips": {
 		"apps": [
-			"XJQTQXW94Z.com.donation.sadaqah.v3.AppClips"
+			"XJQTQXW94Z.ae.donation.sadaqah.v3.AppClips"
 		]
 	}
 }
