@@ -1,9 +1,9 @@
 {
 	"applinks": {
 		"apps": [],
-		"details": [ 
+		"details": [
 			{
-				"appID": “XJQTQXW94Z.ae.donation.sadaqah,
+				"appID": "XJQTQXW94Z.com.donation.sadaqah.v3",
 				"paths": [
 					"*"
 				]
@@ -12,7 +12,7 @@
 	},
 	"appclips": {
 		"apps": [
-			"6AK2UHMU8X.ae.donation.sadaqah.AppClip"
+			"XJQTQXW94Z.com.donation.sadaqah.v3.AppClips"
 		]
 	}
 }
